@@ -17,8 +17,11 @@ section .data
 section .text
     global _start
 ```
-<p align="center">
-  <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://josecarlosmtins.blogspot.com/)">
+<p align="center" >
+  <a href="https://josecarlosmtins.blogspot.com/">
     <img alt="Blogger" title="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+  </a>
+  <a href="https://josecarlosmtins.blogspot.com/">
+    <img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
